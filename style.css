@@ -1,0 +1,36 @@
+body{
+    background-color: #e6f3ff;
+    padding: ;
+}
+h1{
+    color:blueviolet;
+    font-style: italic;
+}
+img{
+    float: centre;
+}
+p{
+  font-size: 29px;
+}
+
+
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+td,th{
+    text-align: left;
+    padding: 16px;
+}
+footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px ;
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
